@@ -100,7 +100,7 @@ Parts list: speech recognition module、 green basswood board、 M3*12mm screw (
 
 The installation is shown in the following figure:
 
-.. image:: _static33.speech.png
+.. image:: _static/33.speech.png
    :alt: speech recognition
    :align: center
 
@@ -112,7 +112,7 @@ Parts list: LED light module、 pink basswood board、 M3*12mm screw (2 PCS)、 
 
 The installation is shown in the following figure:
 
-.. image:: _static/34.LED.png
+.. image:: _static/34.led.png
    :alt: LED
    :align: center
 
