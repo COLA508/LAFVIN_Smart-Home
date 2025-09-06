@@ -21,7 +21,7 @@ The installation is shown in the following figure:
 
 Step 1-2: Install the window servo on the basswood board
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Parts list: Basswood board with "P"、 servo bag (servo)、 M2*30mm screws (2 PCS)、 M2 nuts (2 PCS).
+Parts list: Basswood board with "P"、 servo bag (servo)、 M2*30mm screw (2 PCS)、 M2 nut (2 PCS).
 
 The installation is shown in the following figure:
 
@@ -60,7 +60,7 @@ Window installation completed effect picture:
 
 Step 2: Installation of the Motor Fan
 ---------------------------
-Parts list: Basswood board with  "N"、 motor fan module、 M3*12mm screws (2 PCS)、 M3 nuts (2 PCS).
+Parts list: Basswood board with  "N"、 motor fan module、 M3*12mm screw (2 PCS)、 M3 nut (2 PCS).
 
 Window installation completed effect picture:
 
