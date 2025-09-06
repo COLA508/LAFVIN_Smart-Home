@@ -18,11 +18,8 @@ The installation is shown in the following figure:
 
 .. admonition:: Precautions
 
- - First, insert the screws through the underside of the basswood board numbered "A," then place the copper standoffs and tighten them. 
-Next, place the ESP32 development board and tighten the screws to secure it.
- - The serial numbers on the basswood boards are used only to distinguish one board from another. In the tutorial examples, 
-the serial numbers face outward for ease of illustration, but they should face inward during installation. 
-This principle should also be followed for subsequent basswood installations.
+ - First, insert the screws through the underside of the basswood board numbered "A," then place the copper standoffs and tighten them. Next, place the ESP32 development board and tighten the screws to secure it.
+ - The serial numbers on the basswood boards are used only to distinguish one board from another. In the tutorial examples, the serial numbers face outward for ease of illustration, but they should face inward during installation. This principle should also be followed for subsequent basswood installations.
 
 步骤 2：电池盒的安装
 ---------------------------
