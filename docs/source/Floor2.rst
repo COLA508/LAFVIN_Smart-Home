@@ -93,7 +93,7 @@ The installation is shown in the following figure:
 
 Step 4: Installation of the Sensor Module
 ----------------------
-Parts list: Basswood board with "S"、 DHT11 temperature and humidity sensor、 human infrared sensor、 light-sensitive brightness sensor、 raindrop sensor、 M3*12mm screws (8 PCS)、 M3 nuts (8 PCS).
+Parts list: Basswood board with "S"、 DHT11 temperature and humidity sensor、 human infrared sensor、 light-sensitive brightness sensor、 raindrop sensor、 M3*12mm screw (8 PCS)、 M3 nut (8 PCS).
 
 The installation is shown in the following figure:
 
