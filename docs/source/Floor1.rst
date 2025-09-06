@@ -39,7 +39,7 @@ The installation is shown in the following figure:
 Step 3: Installation of the first floor of the cabin
 ---------------------------
 
-Parts list: Basswood boards with "J, K, L", and "G, H" with screen and buttons installed
+Parts list: Basswood boards with "J, K, L", and "G, H" with screen and buttons installed.
 
 The installation is shown in the following figure:
 

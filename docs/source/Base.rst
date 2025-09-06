@@ -40,7 +40,7 @@ The installation is shown in the following figure:
 Step 3: Install the base
 ---------------------------
 
-Parts list: Basswood boards with "B, C, D, E, F" 、blue latch (6 PCS)
+Parts list: Basswood boards with "B, C, D, E, F" 、blue latch (6 PCS).
 
 The installation is shown in the following figure:
 

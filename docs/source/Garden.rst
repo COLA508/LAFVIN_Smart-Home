@@ -37,7 +37,7 @@ The installation is shown in the following figure:
 
 步骤1-3：大门的齿轮与亚克力板安装至椴木板上
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Parts list: Basswood board with "T"、 window acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS)
+Parts list: Basswood board with "T"、 window acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS).
 
 The installation is shown in the following figure:
 
@@ -60,7 +60,7 @@ The installation is shown in the following figure:
 
 Step 1-4: Installation of RFID sensor module
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Parts list: Acrylic door drive board and basswood board "T" with servo installed、 RFID sensor module、 M3*12mm screw (2 PCS)、 M3 nut (2 PCS)
+Parts list: Acrylic door drive board and basswood board "T" with servo installed、 RFID sensor module、 M3*12mm screw (2 PCS)、 M3 nut (2 PCS).
 
 The installation is shown in the following figure:
 
@@ -135,7 +135,7 @@ The installation is shown in the following figure:
    
 Step 5: Installing the RGB Light Strip
 ---------------------------
-Parts list: RGB light strip、 brown basswood fence board (The longest fence)
+Parts list: RGB light strip、 brown basswood fence board (The longest fence).
 
 The installation is shown in the following figure:
 

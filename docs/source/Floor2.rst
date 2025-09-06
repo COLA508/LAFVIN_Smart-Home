@@ -32,7 +32,7 @@ The installation is shown in the following figure:
 
 Step 1-3: Install the window gear and acrylic plate onto the basswood board
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Parts list: Basswood board with "P"、 window acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS)
+Parts list: Basswood board with "P"、 window acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS).
 
 The installation is shown in the following figure:
 
@@ -72,7 +72,7 @@ Window installation completed effect picture:
 
 Step 3: Installing the Solar Charging Panel
 ---------------------------
-Parts list: Basswood board with "R", solar charging panel, solar charging indicator light, glue.
+Parts list: Basswood board with "R"、 solar charging panel、 solar charging indicator light、 glue.
 
 The installation is shown in the following figure:
 
@@ -131,7 +131,7 @@ The installation is shown in the following figure:
 Step 6: Installation roof
 ----------------
 
-Parts List: "S, R" basswood board with components installed.
+Parts List: "S、 R" basswood board with components installed.
 
 The installation is shown in the following figure:
 
@@ -146,7 +146,7 @@ The installation is shown in the following figure:
 Step 7: Installation of the Second Fence
 ---------------------------
 
-Parts List: Brown basswood fence planks (shorter, 3 PCS)
+Parts List: Brown basswood fence planks (shorter, 3 PCS).
 
 The installation is shown in the following figure:
 
