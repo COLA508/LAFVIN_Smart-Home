@@ -35,9 +35,9 @@ The installation is shown in the following figure:
    <div style="margin-top: 30px;"></div>
 
 
-步骤1-3：大门的齿轮与亚克力板安装至椴木板上
+Step 1-3: Install the gate gear and acrylic plate onto the basswood board
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Parts list: Basswood board with "T"、 window acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS).
+Parts list: Basswood board with "T"、 gate acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS).
 
 The installation is shown in the following figure:
 
