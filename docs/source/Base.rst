@@ -8,7 +8,7 @@ Parts list: Basswood board with "A"、 ESP32 development board、 M3*8mm screw (
 
 The installation is shown in the following figure:
 
-.. image:: _static/3.ESP32 development board installation.png
+.. image:: _static/3.ESP32.png
    :alt: ESP32 development board installation
    :align: center
 
@@ -28,7 +28,7 @@ Parts list: battery box、 M3*10mm flat head screw (2 PCS)、 M3 nut (2 PCS).
 
 The installation is shown in the following figure:
 
-.. image:: _static/4.Battery box installation.png
+.. image:: _static/4.Battery.png
    :alt: Battery box installation
    :align: center
  
@@ -44,11 +44,11 @@ Parts list: Basswood boards with "B, C, D, E, F"、 blue latch (6 PCS).
 
 The installation is shown in the following figure:
 
-.. image:: _static/5.Base installation1.png
+.. image:: _static/5.Base1.png
    :alt: Base installation1
    :align: center
 
-.. image:: _static/6.Base installation2.png
+.. image:: _static/6.Base2.png
    :alt: Base installation2
    :align: center
  
@@ -61,6 +61,6 @@ The installation is shown in the following figure:
 
 The effect of the base installation is shown in the figure:
 
-.. image:: _static/8.Base installation completed.png
+.. image:: _static/8.Base_completed.png
    :alt: 底座安装
    :align: center
