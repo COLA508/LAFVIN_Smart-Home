@@ -108,7 +108,7 @@ The installation is shown in the following figure:
 
 Step 3: Installation of LED Light Module
 ---------------------------
-Parts list: LED light module、 pink basswood board、 M3*12mm screw (2 PCS)、 M3 nuts (2 PCS).
+Parts list: LED light module、 pink basswood board、 M3*12mm screw (2 PCS)、 M3 nut (2 PCS).
 
 The installation is shown in the following figure:
 
