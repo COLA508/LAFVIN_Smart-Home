@@ -1,9 +1,9 @@
-智能小屋安装教程
+Installation Tutorial of Smart Home 
 ===========================
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录
+   :caption: Contents
 
    Introduction
    Base
