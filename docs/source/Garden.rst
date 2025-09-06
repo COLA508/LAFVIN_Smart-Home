@@ -1,30 +1,30 @@
-四、小屋花园的安装
+Installation of  garden
 ===========================
 
-步骤1：大门的安装
+Step 1: Installation of the gate
 ---------------------------
 
-步骤1-1：齿轮与摆臂的安装
+Step 1-1: Installation of gear and swing arm
 ^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：亚克力齿轮、舵机包（单向摆臂）、M1.5*5mm自攻螺丝（1颗）。
+Parts list: acrylic gear、 servo bag (one-way swing arm)、 M1.5*5mm self-tapping screw (1 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/齿轮摆臂带螺丝.png
    :alt: 大门齿轮
    :align: center
 
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 将齿轮的小孔（左右任意一侧）与摆臂的第三个小孔对齐后安装，并拧紧螺丝。
- - 此处的齿轮安装方式与之前窗户控制齿轮的步骤及零件相同。如已完成前述安装，本步骤可忽略。
+ - Align the small hole of the gear (either left or right) with the third small hole of the swing arm, then install it and tighten the screws.
+ - The gear installation method here is the same as the window control gear installation steps and parts. If the previous installation has been completed, this step can be ignored.
 
-步骤1-2：窗户舵机安装至椴木板上
+Step 1-2: Install the gate servo on the basswood board
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：序号为“T”的椴木板、舵机包（舵机）、M2*30mm螺丝（两颗）、M2螺母（2颗）。
+Parts list: Basswood board with "T"、 servo bag (servo)、 M2*30mm screw (2 PCS)、 M2 nut (2 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/大门舵机安装带螺丝.png
    :alt: 舵机安装至椴木板
@@ -37,9 +37,9 @@
 
 步骤1-3：大门的齿轮与亚克力板安装至椴木板上
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：序号为“P”的椴木板、亚克力驱动板（较长的亚克力）、组装好的齿轮、舵机包（最短的螺丝-M2*4mm）、M3*12mm螺丝（4颗）、M3螺母（4颗）
+Parts list: Basswood board with "T"、 window acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS)
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/大门亚克力带螺丝.png
    :alt: 大门亚克力安装
@@ -50,17 +50,19 @@
    <div style="margin-top: 30px;"></div>
 
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 将亚克力大门驱动板安装到椴木板上时，固定螺丝无需拧得过紧，应保留适当余量，以保证窗户滑动顺畅。
- - 大门的亚克力驱动板的齿条应朝上安装。
+ - There is a film on both sides of the acrylic, please tear it off before installation.
+ - When installing the acrylic gate drive plate to the basswood board, the fixing screws do not need to be tightened too much, and appropriate margin should be left to ensure smooth sliding of the window.
+ - The gate's acrylic drive plate should be installed with the rack facing upwards.
 
 
-步骤1-4：RFID感应模块的安装
+
+Step 1-4: Installation of RFID sensor module
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：安装好亚克力大门驱动板以及舵机的椴木板T、RFID感应模块、M3*12mm螺丝（2颗）、M3螺母（2颗）
+Parts list: Acrylic door drive board and basswood board "T" with servo installed, RFID sensor module, M3*12mm screw (2 PCS), M3 nut (2 PCS)
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/RFID感应模块安装新.png
    :alt: RFID安装
@@ -70,7 +72,7 @@
 
    <div style="margin-top: 30px;"></div>
 
-大门安装完成效果图：
+The effect picture of the gate installation is completed:
 
 .. image:: _static/大门安装完成效果图新.png
    :alt: 大门安装完成效果图
@@ -78,11 +80,11 @@
 
 
 
-步骤1-5：大门安装到花园
+Steps 1-5: Installing the gate to the garden
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：安装好舵机、RFID感应模块以及亚克力的椴木板“T”。
+Parts List: Installed servos、 RFID sensor module、 and acrylic basswood board "T".
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/20.大门安装1.png
    :alt: 大门安装
@@ -92,11 +94,11 @@
 
    <div style="margin-top: 30px;"></div>
 
-步骤2：语音识别模块的安装
+Step 2: Install the speech recognition module
 ---------------------------
-零件清单：语音识别模块、绿色的树椴木板、M3*12mm螺丝（2颗）、M3螺母（2颗）。
+Parts list: speech recognition module、 green basswood board、 M3*12mm screw (2 PCS)、 M3 nut (2 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/语音模块带螺丝.png
    :alt: 语音识别模块安装
@@ -104,11 +106,11 @@
 
 
 
-步骤3：LED灯模块的安装
+Step 3: Installation of LED Light Module
 ---------------------------
-零件清单：LED灯模块、粉色的花椴木板、M3*12mm螺丝（2颗）、M3螺母（2颗）。
+Parts list: LED light module、 pink basswood board、 M3*12mm screw (2 PCS)、 M3 nuts (2 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/LED灯带螺丝.png
    :alt: LED灯模块安装
@@ -116,11 +118,11 @@
 
 
 
-步骤4：花和树安装到花园上
+Step 4: Installing flowers and trees in the garden
 ---------------------------
-零件清单：安装好语音识别模块的绿色的树椴木板、安装好LED灯模块的粉色的花椴木板。
+Parts list: Green linden wood board with voice recognition module installed、 pink linden wood board with LED light module installed.
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/21.花树安装.png
    :alt: 花树安装
@@ -131,34 +133,34 @@
    <div style="margin-top: 30px;"></div>
 
    
-步骤5：RGB灯带的安装
+Step 5: Installing the RGB Light Strip
 ---------------------------
-零件清单：RGB灯带、棕色的围栏椴木板（最长的一条围栏）
+Parts list: RGB light strip、 brown basswood fence board (The longest fence)
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/RGB灯带安装.png
    :alt: RGB安装
    :align: center
 
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 先撕下灯带背面蓝色的胶带，再将灯带粘贴于围栏背面。
- - 为获得最佳发光效果，请尽量将 RGB 灯带居中粘贴在围栏背面
+ - First tear off the blue tape on the back of the light strip, and then stick the light strip on the back of the fence.
+ - To achieve the best lighting effect, please stick the RGB light strip in the center of the back of the fence.
 
 
-步骤6：花园围栏的安装
+Step 6: Installation of the Garden Fence
 ---------------------------
-零件清单：棕色的花园围栏椴木板（短的2条）、安装好RGB灯带的围栏。
+Parts list: Brown garden fence basswood planks (2 shorter ones)、 fence with RGB light strip installed.
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/22.花园围栏安装.png
    :alt: RGB安装
    :align: center
 
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 请区分短、长两条围栏。较长的一条应安装在大门旁，较短的一条应安装在按键模块旁。
+ - Please distinguish between the short and long fences. The longer one should be installed next to the gate, and the shorter one should be installed next to the key module.
