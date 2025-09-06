@@ -9,8 +9,8 @@ Parts list: Basswood board with "G"、 button module、 M3*12mm screw (2 PCS)、
 
 The installation is shown in the following figure:
 
-.. image:: _static/按键带螺丝.png
-   :alt: 按键模块安装
+.. image:: _static/8.button.png
+   :alt: button
    :align: center
 
 
@@ -21,13 +21,13 @@ Parts list: Basswood board with "H"、 LCD screen、 M3*12mm screw (4 PCS)、 M3
 
 The installation is shown in the following figure:
 
-.. image:: _static/屏幕带螺丝.png
-   :alt: LCD屏幕安装
+.. image:: _static/9.lcd1.png
+   :alt: LCD
    :align: center
 
 
-.. image:: _static/屏幕安装方向示意图.png
-   :alt: LCD安装方向
+.. image:: _static/10.lcd2.png
+   :alt: LCD2
    :align: center
    :width: 600px
 
@@ -43,18 +43,18 @@ Parts list: Basswood boards with "J, K, L", and "G, H" with screen and buttons i
 
 The installation is shown in the following figure:
 
-.. image:: _static/7.一层护板安装.png
-   :alt: 一层组装
+.. image:: _static/11.floor1_1.png
+   :alt: floor1_1
    :align: center
 
 
-.. image:: _static/一层盖板安装1.png
-   :alt: 一层组装
+.. image:: _static/12.floor1_2.png
+   :alt: floor1_2
    :align: center
  
 
-.. image:: _static/一层安装方向示意图.png
-   :alt: 一层组装
+.. image:: _static/13.floor1_3.png
+   :alt: floor1_3
    :align: center
 
 
@@ -65,6 +65,6 @@ The installation is shown in the following figure:
 
 The effect of the first floor installation of the cabin is shown in the figure:
 
-.. image:: _static/10.一层安装完成效果图.png
-   :alt: 一层组装安装完成
+.. image:: _static/14.floor1_completed.png
+   :alt: floor1_completed
    :align: center
