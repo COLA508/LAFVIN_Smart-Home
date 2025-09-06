@@ -10,8 +10,8 @@ Parts list: acrylic gear、 servo bag (one-way swing arm)、 M1.5*5mm self-tappi
 
 The installation is shown in the following figure:
 
-.. image:: _static/齿轮摆臂带螺丝.png
-   :alt: 大门齿轮
+.. image:: _static/15.gear.png
+   :alt: gate gear
    :align: center
 
 
@@ -26,8 +26,8 @@ Parts list: Basswood board with "T"、 servo bag (servo)、 M2*30mm screw (2 PCS
 
 The installation is shown in the following figure:
 
-.. image:: _static/大门舵机安装带螺丝.png
-   :alt: 舵机安装至椴木板
+.. image:: _static/28.door_sevro.png
+   :alt: door sevro
    :align: center
 
 .. raw:: html
@@ -41,8 +41,8 @@ Parts list: Basswood board with "T"、 gate acrylic driver board (shorter acryli
 
 The installation is shown in the following figure:
 
-.. image:: _static/大门亚克力带螺丝.png
-   :alt: 大门亚克力安装
+.. image:: _static/29.door_acrylic.png
+   :alt: door acrylic
    :align: center
 
 .. raw:: html
@@ -64,8 +64,8 @@ Parts list: Acrylic door drive board and basswood board "T" with servo installed
 
 The installation is shown in the following figure:
 
-.. image:: _static/RFID感应模块安装新.png
-   :alt: RFID安装
+.. image:: _static/30.RFID.png
+   :alt: RFID
    :align: center
 
 .. raw:: html
@@ -74,8 +74,8 @@ The installation is shown in the following figure:
 
 The effect picture of the gate installation is completed:
 
-.. image:: _static/大门安装完成效果图新.png
-   :alt: 大门安装完成效果图
+.. image:: _static/31.door_completed.png
+   :alt: door completed
    :align: center
 
 
@@ -86,8 +86,8 @@ Parts List: Installed servos、 RFID sensor module、 and acrylic basswood board
 
 The installation is shown in the following figure:
 
-.. image:: _static/20.大门安装1.png
-   :alt: 大门安装
+.. image:: _static/32.door2.png
+   :alt: gate
    :align: center
 
 .. raw:: html
@@ -100,8 +100,8 @@ Parts list: speech recognition module、 green basswood board、 M3*12mm screw (
 
 The installation is shown in the following figure:
 
-.. image:: _static/语音模块带螺丝.png
-   :alt: 语音识别模块安装
+.. image:: _static33.speech.png
+   :alt: speech recognition
    :align: center
 
 
@@ -112,8 +112,8 @@ Parts list: LED light module、 pink basswood board、 M3*12mm screw (2 PCS)、 
 
 The installation is shown in the following figure:
 
-.. image:: _static/LED灯带螺丝.png
-   :alt: LED灯模块安装
+.. image:: _static/34.LED.png
+   :alt: LED
    :align: center
 
 
@@ -124,8 +124,8 @@ Parts list: Green linden wood board with voice recognition module installed、 p
 
 The installation is shown in the following figure:
 
-.. image:: _static/21.花树安装.png
-   :alt: 花树安装
+.. image:: _static/35.flower_tree.png
+   :alt: flower_tree
    :align: center
 
 .. raw:: html
@@ -139,8 +139,8 @@ Parts list: RGB light strip、 brown basswood fence board (The longest fence).
 
 The installation is shown in the following figure:
 
-.. image:: _static/RGB灯带安装.png
-   :alt: RGB安装
+.. image:: _static/36.RGB.png
+   :alt: RGB
    :align: center
 
 
@@ -156,8 +156,8 @@ Parts list: Brown garden fence basswood planks (2 shorter ones)、 fence with RG
 
 The installation is shown in the following figure:
 
-.. image:: _static/22.花园围栏安装.png
-   :alt: RGB安装
+.. image:: _static/37.garden_fence.png
+   :alt: garden fence
    :align: center
 
 
