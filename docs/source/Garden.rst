@@ -60,7 +60,7 @@ The installation is shown in the following figure:
 
 Step 1-4: Installation of RFID sensor module
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Parts list: Acrylic door drive board and basswood board "T" with servo installed, RFID sensor module, M3*12mm screw (2 PCS), M3 nut (2 PCS)
+Parts list: Acrylic door drive board and basswood board "T" with servo installed、 RFID sensor module、 M3*12mm screw (2 PCS)、 M3 nut (2 PCS)
 
 The installation is shown in the following figure:
 
