@@ -1,4 +1,4 @@
-智能家居小屋安装教程
+Installation Tutorial of Smart Home 
 ===========================
 （此处图片可换为实拍图）
 
@@ -7,22 +7,22 @@
    :align: center
 
 
-   （智能家居小屋安装完成效果图）
+   （Design sketch of smart house installation）
 
 
-引言
-----
-  本教程适用于 LA-Smart-Home 智能家居小屋安装。为确保安装高效且无误，请在安装前认真阅读全部步骤与注意事项。
+Introduction
+------------
+  This tutorial is for installing the "LA-Smart-Home" smart home. To ensure an efficient and error-free installation, please carefully read all steps and precautions before installation.
 
 
-安装视频教程
+Installation video tutorial
 -----------
 （此处会插入一段安装的视频教程）
 
-螺丝尺寸比较
+Screw size comparison
 ------------
-  本产品在安装过程中会用到多种不同型号的螺丝。请务必在安装前逐一核对螺丝型号并参照本教程中对应步骤使用指定型号，
-  严禁混用或以其他型号代替，以免因螺丝规格不符导致无法安装或损坏产品。如遇无法辨认，请停止操作并参阅配件清单或联系售后确认。
+  This product requires several different screw types during installation. Before installation, please verify each screw type and follow the instructions in this tutorial to use the specified screw type.
+Mixing or substituting screw types is strictly prohibited. This may cause installation failure or damage to the product due to screw mismatches. If you are unable to identify the screw type, please discontinue operation and refer to the accessories list or contact customer service for confirmation.
 
 .. figure:: _static/螺丝比较图.png
    :alt: 螺丝尺寸比较图
@@ -30,4 +30,4 @@
 
 
 
-*现在，请按照本教程的步骤操作，让我们一起开始安装 LA-Smart-Home 智能家居小屋吧。*
+*Now, please follow the steps in this tutorial and let’s start installing the "LA-Smart-Home" smart home cabin.*
