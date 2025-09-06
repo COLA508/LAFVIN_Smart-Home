@@ -14,7 +14,7 @@ The installation is shown in the following figure:
    :align: center
 
 
-Step 2: LCD screen installation
+Step 2: Installation LCD screen
 ---------------------------
 
 Parts list: Basswood board with "H"、 LCD screen、 M3*12mm screws (4 PCS)、 M3 nuts (4 PCS).

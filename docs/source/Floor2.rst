@@ -1,7 +1,7 @@
 Installation of the second floor of the cabin
 ===========================
 
-Step 1: Window Installation
+Step 1: Installation window 
 ---------------------------
 
 Step 1-1: Installation of gear and swing arm
@@ -46,7 +46,7 @@ The installation is shown in the following figure:
 
 .. admonition:: Precautions
 
- - There is a film on both sides of the acrylic, please tear it off before installation
+ - There is a film on both sides of the acrylic, please tear it off before installation.
  - When installing the acrylic window drive plate to the basswood board, the fixing screws do not need to be tightened too much, and appropriate margin should be left to ensure smooth sliding of the window.
  - The window's acrylic drive plate should be installed with the rack facing upwards.
 
@@ -128,7 +128,7 @@ The installation is shown in the following figure:
 
  - The lengths of the protrusions on the left and right sides of the lower ends of the basswood boards with "N, Q" are different. Please carefully distinguish the directions before installing to ensure a stable structure.
  
-Step 6: Roof Installation
+Step 6: Installation roof
 ----------------
 
 Parts List: "S, R" basswood board with components installed.
