@@ -2,8 +2,8 @@ Installation Tutorial of Smart Home
 ===========================
 （此处图片可换为实拍图）
 
-.. figure:: _static/小屋安装完成效果图.png
-   :alt: 安装完成效果图
+.. figure:: _static/1.The effect picture of the cabin installation.png
+   :alt: The effect picture of the cabin installation
    :align: center
 
 
@@ -24,8 +24,8 @@ Screw size comparison
  - This product requires several different screw types during installation. Before installation, please verify each screw type and follow the instructions in this tutorial to use the specified screw type.
  - Mixing or substituting screw types is strictly prohibited. This may cause installation failure or damage to the product due to screw mismatches. If you are unable to identify the screw type, please discontinue operation and refer to the accessories list or contact customer service for confirmation.
 
-.. figure:: _static/螺丝比较图.png
-   :alt: 螺丝尺寸比较图
+.. figure:: _static/Screw comparison.png
+   :alt: Screw comparison
    :align: center
 
 
