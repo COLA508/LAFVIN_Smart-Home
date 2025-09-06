@@ -10,8 +10,8 @@ Parts list: acrylic gear、 servo bag (one-way swing arm)、 M1.5*5mm self-tappi
 
 The installation is shown in the following figure:
 
-.. image:: _static/齿轮摆臂带螺丝.png
-   :alt: 窗户齿轮
+.. image:: _static/15.gear.png
+   :alt: window gear
    :align: center
 
 .. admonition:: Precautions
@@ -25,8 +25,8 @@ Parts list: Basswood board with "P"、 servo bag (servo)、 M2*30mm screw (2 PCS
 
 The installation is shown in the following figure:
 
-.. image:: _static/舵机带螺丝.png
-   :alt: 舵机安装至椴木板
+.. image:: _static/16.window_sevro.png
+   :alt: window sevro
    :align: center
 
 
@@ -36,8 +36,8 @@ Parts list: Basswood board with "P"、 window acrylic driver board (shorter acry
 
 The installation is shown in the following figure:
 
-.. image:: _static/窗户亚克力带螺丝.png
-   :alt: 窗户亚克力安装
+.. image:: _static/17.window_acrylic.png
+   :alt: window acrylic
    :align: center
 
 .. raw:: html
@@ -52,8 +52,8 @@ The installation is shown in the following figure:
 
 Window installation completed effect picture:
 
-.. image:: _static/窗户安装完成效果图.png
-   :alt: 窗户安装完成效果图
+.. image:: _static/18.window_completed.png
+   :alt: window completed
    :align: center
 
 
@@ -64,8 +64,8 @@ Parts list: Basswood board with  "N"、 motor fan module、 M3*12mm screw (2 PCS
 
 Window installation completed effect picture:
 
-.. image:: _static/电机带螺丝.png
-   :alt: 风扇安装
+.. image:: _static/19.fan.png
+   :alt: fan
    :align: center
    :width: 600px
 
@@ -76,14 +76,14 @@ Parts list: Basswood board with "R"、 solar charging panel、 solar charging in
 
 The installation is shown in the following figure:
 
-.. image:: _static/太阳能安装图.png
-   :alt: 太阳能安装
+.. image:: _static/20.Solar1.png
+   :alt: Solar1
    :align: center
 
 
 
-.. image:: _static/太阳能安装接线示意图.png
-   :alt: 太阳能接线
+.. image:: _static/21.Solar2.png
+   :alt: Solar2
    :align: center
 
    
@@ -97,8 +97,8 @@ Parts list: Basswood board with "S"、 DHT11 temperature and humidity sensor、 
 
 The installation is shown in the following figure:
 
-.. image:: _static/传感器安装带螺丝.png
-   :alt: 传感器安装
+.. image:: _static/22.sensor.png
+   :alt: sensor
    :align: center
 
 
@@ -115,13 +115,13 @@ Parts list: Basswood boards with  "M、 Q", and "N、 P" basswood boards with co
 
 The installation is shown in the following figure:
 
-.. image:: _static/14.二层护板安装2.png
-   :alt: 二层组装
+.. image:: _static/23.floor2_1.png
+   :alt: floor2_1
    :align: center
 
 
-.. image:: _static/电机板材长短区分图.png
-   :alt: 二层组装
+.. image:: _static/24.floor2_2.png
+   :alt: floor2_2
    :align: center
 
 .. admonition:: Precautions
@@ -135,8 +135,8 @@ Parts List: "S、 R" basswood board with components installed.
 
 The installation is shown in the following figure:
 
-.. image:: _static/15.屋顶安装.png
-   :alt: 屋顶安装
+.. image:: _static/25.roof.png
+   :alt: roof
    :align: center
 
 .. raw:: html
@@ -150,13 +150,13 @@ Parts List: Brown basswood fence planks (shorter, 3 PCS).
 
 The installation is shown in the following figure:
 
-.. image:: _static/17.二层围栏安装.png
-   :alt: 围栏安装
+.. image:: _static/26.floor2_fence.png
+   :alt: floor2 fence
    :align: center
 
 
 The effect picture of the second floor of the cabin after installation:
 
-.. image:: _static/16.二层安装完成效果图.png
-   :alt: 二层安装完成效果图
+.. image:: _static/27.floor2_completed.png
+   :alt: floor2 completed
    :align: center
