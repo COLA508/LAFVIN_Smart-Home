@@ -61,6 +61,6 @@ The installation is shown in the following figure:
 
 The effect of the base installation is shown in the figure:
 
-.. image:: _static/8.Base_completed.png
+.. image:: _static/7.Base_completed.png
    :alt: 底座安装
    :align: center
