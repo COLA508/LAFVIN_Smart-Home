@@ -4,7 +4,7 @@ Installation of the first floor of the cabin
 Step 1: Install the button module
 ---------------------------
 
-Parts list: Basswood board with "G"、 button module、 M3*12mm screws (2 PCS)、 M3 nuts (2 PCS).
+Parts list: Basswood board with "G"、 button module、 M3*12mm screw (2 PCS)、 M3 nut (2 PCS).
 
 
 The installation is shown in the following figure:
@@ -17,7 +17,7 @@ The installation is shown in the following figure:
 Step 2: Installation LCD screen
 ---------------------------
 
-Parts list: Basswood board with "H"、 LCD screen、 M3*12mm screws (4 PCS)、 M3 nuts (4 PCS).
+Parts list: Basswood board with "H"、 LCD screen、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS).
 
 The installation is shown in the following figure:
 
