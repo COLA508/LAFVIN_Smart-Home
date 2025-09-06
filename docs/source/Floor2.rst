@@ -1,40 +1,40 @@
-三、小屋二层的安装
+Installation of the second floor of the cabin
 ===========================
 
-步骤1：窗户部分的安装
+Step 1: Window Installation
 ---------------------------
 
-步骤1-1：齿轮与摆臂的安装
+Step 1-1: Installation of gear and swing arm
 ^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：亚克力齿轮、舵机包（单向摆臂）、M1.5*5mm自攻螺丝（1颗）。
+Parts list: acrylic gear、 servo bag (one-way swing arm)、 M1.5*5mm self-tapping screw (1 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/齿轮摆臂带螺丝.png
    :alt: 窗户齿轮
    :align: center
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 将齿轮的小孔（左右任意一侧）与摆臂的第三个小孔对齐后安装，并拧紧螺丝。
- - 此处的齿轮安装方式与后续大门控制齿轮的安装步骤及所用零件相同，可在本步骤一并完成安装。
+ - Align the small hole of the gear (either left or right) with the third small hole of the swing arm, then install it and tighten the screws.
+ - The gear installation method in this step is the same as the subsequent gate control gear installation steps and parts used, so you can complete the installation in this step.
 
-步骤1-2：窗户舵机安装至椴木板上
+Step 1-2: Install the window servo on the basswood board
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：序号为“P”的椴木板、舵机包（舵机）、M2*30mm螺丝（2颗）、M2螺母（2颗）。
+Parts list: Basswood board with "P"、 servo bag (servo)、 M2*30mm screws (2 PCS)、 M2 nuts (2 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/舵机带螺丝.png
    :alt: 舵机安装至椴木板
    :align: center
 
 
-步骤1-3：窗户的齿轮与亚克力板安装至椴木板上
+Step 1-3: Install the window gear and acrylic plate onto the basswood board
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-零件清单：序号为“P”的椴木板、窗户亚克力驱动板（较短的亚克力）、组装好的齿轮、舵机包（最短的一颗螺丝-M2*4mm）、M3*12mm螺丝（4颗）、M3螺母（4颗）
+Parts list: Basswood board with "P"、 window acrylic driver board (shorter acrylic)、 assembled gear、 servo package (shortest screw - M2*4mm)、 M3*12mm screw (4 PCS)、 M3 nut (4 PCS)
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/窗户亚克力带螺丝.png
    :alt: 窗户亚克力安装
@@ -44,12 +44,13 @@
 
    <div style="margin-top: 30px;"></div>
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 将亚克力窗户驱动板安装到椴木板上时，固定螺丝无需拧得过紧，应保留适当余量，以保证窗户滑动顺畅。
- - 窗户的亚克力驱动板的齿条应朝上安装。
+ - There is a film on both sides of the acrylic, please tear it off before installation
+ - When installing the acrylic window drive plate to the basswood board, the fixing screws do not need to be tightened too much, and appropriate margin should be left to ensure smooth sliding of the window.
+ - The window's acrylic drive plate should be installed with the rack facing upwards.
 
-窗户安装完成效果图：
+Window installation completed effect picture:
 
 .. image:: _static/窗户安装完成效果图.png
    :alt: 窗户安装完成效果图
@@ -57,11 +58,11 @@
 
 
 
-步骤2：电机风扇的安装
+Step 2: Installation of the Motor Fan
 ---------------------------
-零件清单：序号为“N”的椴木板、电机风扇模块、M3*12mm螺丝（2颗）、M3螺母（2颗）。
+Parts list: Basswood board with  "N"、 motor fan module、 M3*12mm screws (2 PCS)、 M3 nuts (2 PCS).
 
-安装如下图所示：
+Window installation completed effect picture:
 
 .. image:: _static/电机带螺丝.png
    :alt: 风扇安装
@@ -69,11 +70,11 @@
    :width: 600px
 
 
-步骤3：太阳能充电板的安装
+Step 3: Installing the Solar Charging Panel
 ---------------------------
-零件清单：序号为“R”的椴木板、太阳能充电板、太阳能充电指示灯、点胶。
+Parts list: Basswood board with "R", solar charging panel, solar charging indicator light, glue.
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/太阳能安装图.png
    :alt: 太阳能安装
@@ -86,33 +87,33 @@
    :align: center
 
    
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 首先将指示灯两端的接线拆开。将太阳能板的接线穿过序号为 “R” 的椴木板上的开孔，再与指示灯接线连接。可使用点胶固定，以确保稳固。
+ - First, disconnect the wiring from both ends of the indicator light. Thread the solar panel wiring through the hole marked "R" in the basswood board and connect it to the indicator light wiring. Use some glue to secure it securely.
 
-步骤4：传感器模块的安装
+Step 4: Installation of the Sensor Module
 ----------------------
-零件清单：序号为“S”的椴木板、DHT11温湿度传感器、人体红外传感器、光敏亮度传感器、雨滴传感器、M3*12mm螺丝（8颗）、M3螺母（8颗）。
+Parts list: Basswood board with "S"、 DHT11 temperature and humidity sensor、 human infrared sensor、 light-sensitive brightness sensor、 raindrop sensor、 M3*12mm screws (8 PCS)、 M3 nuts (8 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/传感器安装带螺丝.png
    :alt: 传感器安装
    :align: center
 
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 请根据椴木板上标注的文字，在推荐位置固定传感器，以确保安装稳固、平衡。
+ - Please fix the sensor in the recommended position according to the text marked on the basswood to ensure a stable and balanced installation.
 
 
 
-步骤5：小屋二层的安装
+Step 5: Installation of the second floor of the cabin
 --------------------
 
-零件清单：序号为“M、Q”的椴木板、安装好元件的“N、P”椴木板。
+Parts list: Basswood boards with  "M、 Q", and "N、 P" basswood boards with components installed.
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/14.二层护板安装2.png
    :alt: 二层组装
@@ -123,16 +124,16 @@
    :alt: 二层组装
    :align: center
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 序号为 “N、Q” 的椴木板下端左右两侧凸出的长度不同，请仔细区分方向后进行安装，以确保结构稳固。
+ - The lengths of the protrusions on the left and right sides of the lower ends of the basswood boards with "N, Q" are different. Please carefully distinguish the directions before installing to ensure a stable structure.
  
-步骤6：屋顶的安装
+Step 6: Roof Installation
 ----------------
 
-零件清单：安装好元件的“S、R”椴木板。
+Parts List: "S, R" basswood board with components installed.
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/15.屋顶安装.png
    :alt: 屋顶安装
@@ -142,19 +143,19 @@
 
    <div style="margin-top: 30px;"></div>
 
-步骤7：二层围栏的安装
+Step 7: Installation of the Second Fence
 ---------------------------
 
-零件清单：棕色的围栏椴木板（短小的、三条）
+Parts List: Brown basswood fence planks (shorter, 3 PCS)
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/17.二层围栏安装.png
    :alt: 围栏安装
    :align: center
 
 
-小屋二层安装完成效果图：
+The effect picture of the second floor of the cabin after installation:
 
 .. image:: _static/16.二层安装完成效果图.png
    :alt: 二层安装完成效果图
