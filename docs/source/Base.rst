@@ -4,7 +4,7 @@ Installation of base part
 Step 1: Install the ESP32 development board
 ---------------------------
 
-Parts list: Basswood board with "A" 、ESP32 development board 、M3*8mm screws (8 PCS) 、M3*16mm copper pillars (4 PCS).
+Parts list: Basswood board with "A"、 ESP32 development board、 M3*8mm screw (8 PCS)、 M3*16mm copper pillar (4 PCS).
 
 The installation is shown in the following figure:
 
@@ -24,7 +24,7 @@ The installation is shown in the following figure:
 Step 2: Install the battery box
 ---------------------------
 
-Parts list: battery box 、M3*10mm flat head screws (2 PCS) 、M3 nuts (2 PCS).
+Parts list: battery box、 M3*10mm flat head screw (2 PCS)、 M3 nut (2 PCS).
 
 The installation is shown in the following figure:
 
@@ -40,7 +40,7 @@ The installation is shown in the following figure:
 Step 3: Install the base
 ---------------------------
 
-Parts list: Basswood boards with "B, C, D, E, F" 、blue latch (6 PCS).
+Parts list: Basswood boards with "B, C, D, E, F"、 blue latch (6 PCS).
 
 The installation is shown in the following figure:
 
