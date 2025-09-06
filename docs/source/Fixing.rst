@@ -7,8 +7,8 @@ Parts List: Blue latch (8 PCS).
 
 The installation is shown in the following figure:
 
-.. image:: _static/23.栓扣安装.png
-   :alt: 底座固定
+.. image:: _static/38.latch.png
+   :alt: latch
    :align: center
 
 .. raw:: html
@@ -27,8 +27,8 @@ Parts List: Blue Windmill Blades.
 
 The installation is shown in the following figure:
 
-.. image:: _static/24.扇叶安装.png
-   :alt: 风车扇叶
+.. image:: _static/39.fan_blades.png
+   :alt: fan blades
    :align: center
 
 .. raw:: html
@@ -41,8 +41,8 @@ Parts list: debug window cover、 latch with logo.
 
 The installation is shown in the following figure:
 
-.. image:: _static/调试盖板安装.png
-   :alt: 调试窗口盖板
+.. image:: _static/40.debug_window.png
+   :alt: debug window
    :align: center
 
 .. raw:: html
@@ -57,6 +57,6 @@ The installation is shown in the following figure:
 The effect picture of the cabin installation
 ---------------------------
 
-.. image:: _static/小屋安装完成效果图.png
-   :alt: 安装完成效果图
+.. image:: _static/1.completed.png
+   :alt: install completed
    :align: center
