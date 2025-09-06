@@ -1,12 +1,12 @@
-一、底座部分的安装
+Installation of base part
 ===========================
 
-步骤 1：ESP32开发板的安装
+Step 1: Install the ESP32 development board
 ---------------------------
 
-零件清单：序号为“A”的椴木板、ESP32开发板、M3*8mm螺丝（8颗）、M3*16mm铜柱（4颗）。
+Parts list: Basswood board with serial number "A", ESP32 development board, M3*8mm screws (8 PCS), M3*16mm copper pillars (4 PCS).
 
-安装如下图所示：
+The installation is shown in the following figure:
 
 .. image:: _static/开发板安装带螺丝.png
    :alt: ESP32开发板安装
@@ -16,10 +16,13 @@
 
    <div style="margin-top: 30px;"></div>
 
-.. admonition:: 注意事项
+.. admonition:: Precautions
 
- - 安装步骤：先将螺丝从序号为“A”的椴木板底面穿入，再放置铜柱并拧紧。随后放置 ESP32 开发板，并将螺丝拧紧固定。
- - 关于序号：椴木板上的序号仅用于区分不同的椴木板。教程示例中序号面朝外以便展示，实际安装时可将序号面朝内。后续椴木板的安装亦应遵循此原则。
+ - First, insert the screws through the underside of the basswood board numbered "A," then place the copper standoffs and tighten them. 
+Next, place the ESP32 development board and tighten the screws to secure it.
+ - The serial numbers on the basswood boards are used only to distinguish one board from another. In the tutorial examples, 
+the serial numbers face outward for ease of illustration, but they should face inward during installation. 
+This principle should also be followed for subsequent basswood installations.
 
 步骤 2：电池盒的安装
 ---------------------------
